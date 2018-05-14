@@ -16,7 +16,7 @@ The following **optional** features are implemented:
 
 ## Notes
 
-My site is here : [my site](http://ls_site.ml)
+My site is here : [my site](http://ls-site.ml)
 ## License
 
     Copyright [2018] [name of copyright owner]
