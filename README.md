@@ -17,6 +17,9 @@ The following **optional** features are implemented:
 ## Notes
 
 My site is here : [my site](http://ls-site.ml)
+Account to access admin: 
+-user name:ls_site
+-password:p@w0rd123
 ## License
 
     Copyright [2018] [name of copyright owner]
